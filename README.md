@@ -1,4 +1,4 @@
-Hi there 👋,I'm Z-jinga.
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=%E5%81%87&width=435&lines=Hello+Word)](https://git.io/typing-svg)
 
